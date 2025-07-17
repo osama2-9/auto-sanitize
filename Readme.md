@@ -19,7 +19,7 @@ An Express.js middleware and utility for automatic sanitization of request data.
 ## Installation
 
 ```bash
-npm install auto-sanitize
+npm install express-pure-sanitize
 ```
 
 ## Usage
