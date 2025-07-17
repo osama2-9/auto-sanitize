@@ -1,4 +1,4 @@
-# auto-sanitize
+# express-pure-sanitize
 
 An Express.js middleware and utility for automatic sanitization of request data. Protect your API from XSS, SQL injection, unwanted HTML, emojis, and more with flexible configuration.
 

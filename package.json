@@ -1,7 +1,7 @@
 {
-  "name": "auto-sanitize",
-  "version": "1.0.0",
-  "description": "Express middleware to auto-sanitize incoming requests.",
+  "name": "express-pure-sanitize",
+  "version": "1.0.1",
+  "description": "Express middleware to express-pure-sanitize incoming requests.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -36,10 +36,9 @@
     "@types/jest": "^30.0.0",
     "ts-jest": "^29.4.0",
     "tsup": "^7.0.0",
-    "typescript": "^5.3.3"
+    "typescript": "^5.8.3"
   },
   "dependencies": {
-    "axios": "^1.10.0",
     "express": "^5.1.0"
   }
 }
