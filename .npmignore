@@ -1,0 +1,7 @@
+test/
+node_modules/
+*.test.ts
+.vscode/
+*.log
+tsup.config.ts
+jest.config.js
